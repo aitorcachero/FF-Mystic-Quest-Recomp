@@ -1,0 +1,8 @@
+display_name    = Final Fantasy: Mystic Quest
+rom_file        = Final Fantasy - Magic Quest (ESP).sfc
+expected_crc32  = d5ec0e1c
+expected_sha256 = 664f64f0b055b90088559bcc7de43b4cebad18bdfa41040796a9da7a4f305684
+rom_size        = 524288
+mapping         = lorom
+region          = USA
+game_id         = snesrecomp-d5ec0e1c
